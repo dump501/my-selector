@@ -1,0 +1,26 @@
+{
+  "name": "my-selector",
+  "version": "2.0.0",
+  "description": "a javascript document selector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dump501/my-selector.git"
+  },
+  "keywords": [
+    "selector",
+    "simple javascript",
+    "javascript",
+    "jquery",
+    "ui"
+  ],
+  "author": "Tsafack fritz<tsafack07albin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dump501/my-selector/issues"
+  },
+  "homepage": "https://github.com/dump501/my-selector#readme"
+}
